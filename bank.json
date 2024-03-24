@@ -1,0 +1,175 @@
+{
+  "Account": [
+    {
+      "acno": "SBI101",
+      "Name": "Arun",
+      "LName": "Negi",
+      "FName": "Kripal Singh  Negi",
+      "MName": "Tulsi Devi",
+      "Email": "arunnegi989@gmail.com",
+      "Phone": "08476898395",
+      "Gender": "Male",
+      "Country": "India",
+      "State": "Uttarakhand",
+      "City": "Almora",
+      "Ammount": 29998488,
+      "Pin": "1234",
+      "id": 1
+    },
+    {
+      "acno": "SBI102",
+      "Name": "Preeti",
+      "LName": "Rawat",
+      "FName": "Bachan Singh Rawat",
+      "MName": "Laxmi Devi",
+      "Email": "rawatpreeti0101@gmail.com",
+      "Phone": "06396501148",
+      "Gender": "Female",
+      "Country": "India",
+      "State": "Uttarakhand",
+      "City": "Haridwar",
+      "Ammount": 47540,
+      "Pin": "preeti@0113",
+      "id": 2
+    },
+    {
+      "acno": "SBI103",
+      "Name": "Jyoti",
+      "LName": "Bisht",
+      "FName": "Kripal Singh Negi",
+      "MName": "Tulsi Devi",
+      "Email": "jyotibisht989@gmail.com",
+      "Phone": "08650059494",
+      "Gender": "Female",
+      "Country": "India",
+      "State": "Uttarakhand",
+      "City": "Haldwani",
+      "Ammount": 30000,
+      "Pin": "jyoti@0101",
+      "id": 3
+    },
+    {
+      "acno": "SBI104",
+      "Name": "Arun",
+      "LName": "Negi",
+      "FName": "a",
+      "MName": "b",
+      "Email": "arunnegi989@gmail.com",
+      "Phone": "08476898395",
+      "Gender": "m",
+      "Country": "India",
+      "State": "Uttarakhand",
+      "City": "Almora",
+      "Ammount": "10000",
+      "Pin": "1234",
+      "id": 4
+    }
+  ],
+  "Transation": [
+    {
+      "acno": "SBI102",
+      "Ammount": "4000",
+      "date": "13.9.2023",
+      "type": "Recived",
+      "id": 1
+    },
+    {
+      "acno": "SBI101",
+      "Ammount": "2000000",
+      "date": "13.9.2023",
+      "type": "Deopsit",
+      "id": 2
+    },
+    {
+      "acno": "SBI101",
+      "Ammount": "2000000",
+      "date": "13.9.2023",
+      "type": "Deopsit",
+      "id": 3
+    },
+    {
+      "acno": "SBI101",
+      "Ammount": "2000000",
+      "date": "13.9.2023",
+      "type": "Deopsit",
+      "id": 4
+    },
+    {
+      "acno": "SBI101",
+      "Ammount": "2000000",
+      "date": "13.9.2023",
+      "type": "Deopsit",
+      "id": 5
+    },
+    {
+      "acno": "SBI101",
+      "Ammount": "2000000",
+      "date": "13.9.2023",
+      "type": "Deopsit",
+      "id": 6
+    },
+    {
+      "acno": "SBI101",
+      "Ammount": "2000000",
+      "date": "13.9.2023",
+      "type": "Deopsit",
+      "id": 7
+    },
+    {
+      "acno": "SBI101",
+      "Ammount": "2000000",
+      "date": "13.9.2023",
+      "type": "Deopsit",
+      "id": 8
+    },
+    {
+      "acno": "SBI101",
+      "Ammount": "2000000",
+      "date": "13.9.2023",
+      "type": "Deopsit",
+      "id": 9
+    },
+    {
+      "acno": "SBI101",
+      "Ammount": "2000000",
+      "date": "13.9.2023",
+      "type": "Deopsit",
+      "id": 10
+    },
+    {
+      "acno": "SBI101",
+      "Ammount": "2000000",
+      "date": "13.9.2023",
+      "type": "Deopsit",
+      "id": 11
+    },
+    {
+      "acno": "SBI101",
+      "Ammount": "20000",
+      "date": "14.9.2023",
+      "type": "Withdraw",
+      "id": 12
+    },
+    {
+      "acno": "SBI101",
+      "Ammount": "20000",
+      "date": "14.9.2023",
+      "type": "Withdraw",
+      "id": 13
+    },
+    {
+      "acno": "SBI101",
+      "Ammount": "20000",
+      "date": "14.9.2023",
+      "type": "Withdraw",
+      "id": 14
+    },
+    {
+      "acno": "SBI101",
+      "Ammount": "20000",
+      "date": "14.9.2023",
+      "type": "Withdraw",
+      "id": 15
+    }
+  ]
+}
